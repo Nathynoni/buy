@@ -1,0 +1,35 @@
+hr{
+    color: rgb(189, 156, 156)
+}
+p{ margin-left: 20px
+  rgb(82, 58, 13);
+}
+h1{
+    color: rgb(83, 148, 185)
+}
+h2{
+    color: rgb(94, 79, 31)
+}
+h3{
+    color: rgb(94, 79, 31)
+}
+div {
+    border: 2px solid chocolate;
+    width: 250px;
+    height: 105px;
+}     
+a img {
+    width: 250px;
+    height: 105px;     
+}
+img{
+    width: 350px;
+    height: 205px;  
+    color: rgb(65, 55, 23)  
+}
+ol{
+    color: rgb(53, 56, 58)  
+}
+body{
+   background-color:blanchedalmond
+}
